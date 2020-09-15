@@ -4,3 +4,4 @@
 Create the following image
 
 <img src="armytank.png">
+rectangle(100, 100, 100, 100 )
